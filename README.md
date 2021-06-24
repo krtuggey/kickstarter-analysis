@@ -4,6 +4,6 @@ This project worked with data from a multitude of kickstarter campaigns, includi
 Here are the visualizations created during the analysis:
 ![Outcomes Based on Launch Date Chart](https://user-images.githubusercontent.com/84139177/122976613-2a972d00-d35a-11eb-8083-4c24d0a2523a.png)
 ![Parent Category Outcomes Chart](https://user-images.githubusercontent.com/84139177/122976632-308d0e00-d35a-11eb-91e0-cc36dd71c5eb.png)
+![Great Britain Musical Analysis](https://user-images.githubusercontent.com/84139177/123298641-5511f300-d4de-11eb-973f-ef00a2999bcc.png)
 
-
-Based off of the analysis of the kickstarter data, I would recommend that the client create a goal set around $4000.00. Larger financial goals set for musicals have shown to be a contributing factor in the campaign failure. Campaigns started in the summer time, specifically May and June have shown to be more successful, so a summer campaign start would be wise. 
+Based off of the analysis of the kickstarter data, I would recommend that the client create a goal set around $4000.00, the mean of successful musicals in Great Britain. Larger financial goals set for musicals have shown to be a contributing factor in the campaign failure. Campaigns started in the summer time, specifically May and June have shown to be more successful, so a summer campaign start would be wise. 
